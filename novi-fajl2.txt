@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"Neki tekst na master grani" 
-=======
-"Tekst dodat na grani nova-garana" 
->>>>>>> nova-garana
+Neki tekst na master grani i na nova-garana
